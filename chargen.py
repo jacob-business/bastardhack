@@ -75,19 +75,10 @@ def GenerateClass():
 
 STARTINGCLASS=GenerateClass()
 
-def GenerateBackgrounds(STARTINGCLASS):
-    MAGICUSERS=["Witch","Cleric","Cultist","Wizard","Warlock"]
-    TraitsFile=open("Traits.txt","r")
-    TraitsList=TraitsFile.readlines()
-    NonMagicTraits=[]
-    MAGIC=False
-    #if STARTINGCLASS in MAGICUSERS:
-
-
 print ("Name:", GenerateName())
-print ("Race:", GenerateRace(), "Starting Class:", STARTINGCLASS)
+print (GenerateRace(), STARTINGCLASS)
 GenerateStats(STATS,MOD)
-GenerateBackgrounds(STARTINGCLASS)
+
 DEFENSE=DEFENSE+ARMOR+MOD["DEX"]
 ATTACK_melee=ATTACK_melee+MOD["STR"]
 ATTACK_ranged=ATTACK_ranged+MOD["WIS"]
@@ -96,20 +87,3 @@ ATTACK_ranged=ATTACK_ranged+MOD["WIS"]
 print("MELEE ATTACK", ATTACK_melee)
 print("RANGED ATTACK", ATTACK_ranged)
 print("DEFENSE", DEFENSE)
-print()
-print("TRAITS & ABILITIES")
-for trait in TRAITS:
-    print (trait)
-
-#DEMONS=[Fenrir, Jormungandr, Hel, Marchosias, Baphomet, Zobek, Bael, Beezlebub, Sabnock]
-#LAWFULGODS=[Solace, Cloud King, Dragon King Anathemnon, Dragon King Ghidora]
-#CHAOTICGODS=[Moon Queen, Somnambulon, Malog-Grace, Tsar Vodnik]
-Fenrir="Ice Wolf Demon."
-Jormungandr="The World Serpent."
-Hel="Guardian of the Underworld."
-
-def GenerateBackgrounds():
-    #pick a specific entry on the backgrounds table, return it for the traits list.
-    num=random.randint(0,19)
-    if num==1:
-        return "Made a pact with a Demon."
