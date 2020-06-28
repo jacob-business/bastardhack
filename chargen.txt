@@ -1,0 +1,45 @@
+BASTARD HACK
+
+Character Creation
+
+1. Roll 3d6 Stats in Order.
+
+2. Roll Race.
+1d20
+1-10. Human • +1 to 2 stats of your choice.
+11-12. Halfling • +1 WIS - You can talk to small animals.
+13-14. Elf • +1 INT - Never need to sleep. Also cannibalism.
+15-16. Dwarf • +1 CON - Dungeon Architecture (you can sometimes tell how many floors are in a dungeon, how thick a given wall is, etc.)
+17. Tiefling/Mutant/Cursed • +1 CHA - Roll 1d4 random mutations.
+18. Gnome • +1 INT - Invisibility when you close your eyes, hold your breath, and don't move.
+19. Goblin • +1 DEX - Carnivore. You can smell half as well as you can see.
+20. Unusual •
+  1d6
+  1. Undead • -1d4 to each stat. - 1d4 Stat damage instead of death; when you hit 0 in any stat you become skeletal and insane.
+  2. Frogman • +1 CON - Long sticky tongue, can swallow people whole. Dry out quickly without water.
+  3. Lizardman • +1 DEX - Can consume rotten food and brackish water. Save vs. Hypothermia if you can’t get warm in the morning.
+  4. Kobold • +1 DEX - Always know immediately when a trap you’ve set has been sprung. Must always attempt to acquire shinies.
+  5. Orc • +1 STR - Turn 1 save or die/major wound into a scar. Only works once.
+  6. Troll • +1 WIS - Regenerate 1 HP/minute. Vulnerable to fire. Save or turn to stone when exposed to direct sunlight.
+
+3. Roll Starting Class & Background.
+1d12
+1. Witch • 1d6 HD • (+1 Magic Die, Demon Power, Curse)
+2. Cleric • 1d6 HD • (+1 Faith Die, Ritual)
+3. Cultist • 1d6 HD • (+1 Faith Die, Ritual)
+4. Wizard • 1d4 HD • (+1 Magic Die, Arcane Secret)
+5. Warlock • 1d4 HD • (+1 Magic Die, Warlock Rite/Drawback)
+6. Druid • 1d6 HD • (Shapeshift)
+7. Wanderer • 1d8 HD • (Ranged Weapon, Animal Companion, Journey Skill)
+8. Fighter • 1d10 HD • (+1 Attack, Melee Weapon, Fighting Style)
+9. Knight • 1d10 HD • (+1 HP, 12g/month upkeep, Armor, Long Sword, Shield or Lantern.)
+10. Barbarian • 1d12 HD • (+1 Attack, Melee Weapon, Rage)
+11. Rogue • 1d8 HD • (Stealth skill, Hand skill, Thieves' Trick)
+12. Assassin • 1d8 HD • (+1 Attack, Melee Weapon, Stealth skill, Sneak Attack)
+
+Roll a Background
+1d20
+
+4. Roll Equipment
+
+5. Fill in remaining slots.

@@ -1,0 +1,38 @@
+1. Made a pact with a Demon. (+1 Magic Die, Demon Pact, Curse, optional Allegiance)
+2. Joined a Religion (+1 Faith Die, Divine Secret, Allegiance)
+3. Joined a Cult (+1 Faith Die, Occult Secret, Allegiance)
+4. Joined a Wizard School. (+1 Magic Die, Arcane Secret, Allegiance)
+5. Became a Druid. (+1 Magic Die, Shapeshifting).
+6. Found, stole or inherited a Spellbook. (Random Spellbook)
+7. You wandered the wasteland and met a companion. (Ranged Weapon, Animal Companion, Journey Skill)
+8. You learned a fighting style. (+1 Attack, Melee Weapon, Fighting Style)
+9. Ugh.
+10. Fuck.
+11. Idk you learned lasermancy or something.
+12. You were born or made a Knight. (+1 HP, costs 12g/month to keep your status. Armor. Long Sword. Shield or Lantern. Allegiance to one of the powers below.)
+13. You were a soldier (+1 Attack, +1 HP, Melee Weapon, Scars. If you want Armor you must roll an Old Wound:)
+14. You learned to fight with fury. (+1 Attack, Melee Weapon, Rage: you must keep attacking to maintain the rage. Adv. on attack and disadv. on all defense rolls.)
+15. You learned some tricks from thieves. (Hand skill as well as one of the things below:)
+16. You stole something. (Gain the Stealth skill and a Special Item below:)
+17. You killed someone. (Melee Weapon, +1 Attack, Stealth skill, Sneak Attack: When you strike with advantage you deal an extra 1d6 damage.)
+18. You found a heavy weapon. (+Attack, Crossbow, rifle, war-axe, halberd, claymore, etc.)
+19. You killed a monster. (Ranged Weapon, Favored Enemy : +1 Attack and Damage against one type of creature)
+20. You were mutated or cursed. (Roll a random mutation, +1 HP)
+
+
+SEEKING/WANT:
+1. To become a pyromancer/necromancer/neuromancer/biomancer (advanced or forbidden magic)
+2. To find the artifact *generate item*.
+3. To slay the beast *generate monster*.
+4. To uncover divine secret of *generate shrine*.
+5. To uncover the occult secret of *generate shadow*.
+6. To uncover the arcane secret of *generate tower*.
+
+SHRINES
+1. The Godskull
+2. The Crater of the Punishing Star
+3.
+
+SHADOWS
+
+TOWERS
